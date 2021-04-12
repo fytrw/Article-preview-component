@@ -106,6 +106,7 @@ body {
 }
 
 .show-social .img {
+    display: block;
     position: relative;
     height: 35px;
     background-image: url('images/icon-share.svg');
