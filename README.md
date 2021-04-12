@@ -4,6 +4,6 @@
 ---
 ### Links
 
-[GithubPages Link]()
+[GithubPages Link](https://fytrw.github.io/Article-preview-component/)
 
-[Vercel Link]()
+[Vercel Link](https://article-preview-component-seven-eta.vercel.app/)
